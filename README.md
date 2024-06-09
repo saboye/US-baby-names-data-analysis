@@ -1,3 +1,11 @@
+![GitHub contributors](https://img.shields.io/github/contributors/saboye/DSC540-Data-Preparation?color=blue&logo=github&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/saboye/DSC540-Data-Preparation?logo=github&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/saboye/DSC540-Data-Preparation?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/saboye/DSC540-Data-Preparation?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/saboye/DSC540-Data-Preparation?style=for-the-badge)
+![Bellevue University](https://img.shields.io/badge/Bellevue%20University-blue?style=for-the-badge&logo=university)
+
+
 # Summary and Conclusion
 
 ## Overview:
@@ -52,3 +60,6 @@ By examining these trends, we better understand the cultural dynamics and prefer
 - The regional differences in naming trends highlight the diverse cultural influences across different states in the US.
 
 The visualizations and analysis provide a comprehensive understanding of the naming trends, offering valuable insights for researchers, sociologists, and anyone interested in the cultural dynamics of naming practices in the United States.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
