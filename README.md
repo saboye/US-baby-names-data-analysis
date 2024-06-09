@@ -3,6 +3,8 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/saboye/DSC540-Data-Preparation?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/saboye/DSC540-Data-Preparation?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/saboye/DSC540-Data-Preparation?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python)
+![DSC 630](https://img.shields.io/badge/DSC%20630-Predictive%20Analytics-blue?style=for-the-badge)
 ![Bellevue University](https://img.shields.io/badge/Bellevue%20University-blue?style=for-the-badge&logo=university)
 
 
