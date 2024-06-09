@@ -1,11 +1,12 @@
-![GitHub contributors](https://img.shields.io/github/contributors/saboye/DSC540-Data-Preparation?color=blue&logo=github&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/saboye/DSC540-Data-Preparation?logo=github&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues-raw/saboye/DSC540-Data-Preparation?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/saboye/DSC540-Data-Preparation?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/saboye/DSC540-Data-Preparation?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/saboye/US-baby-names-data-analysis?color=blue&logo=github&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/saboye/US-baby-names-data-analysis?logo=github&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/saboye/US-baby-names-data-analysis?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/saboye/US-baby-names-data-analysis?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/saboye/US-baby-names-data-analysis?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![DSC 630](https://img.shields.io/badge/DSC%20630-Predictive%20Analytics-blue?style=for-the-badge)
 ![Bellevue University](https://img.shields.io/badge/Bellevue%20University-blue?style=for-the-badge&logo=university)
+
 
 
 # Summary and Conclusion
@@ -20,6 +21,9 @@ The dataset of baby names from various states in the US provides a comprehensive
 
 - Names like Michael, James, John, Robert, and David frequently appeared as the top male baby names in many states.
 - For female baby names, Mary, Linda, Jessica, Jennifer, and Emily were commonly popular across different states.
+
+![Top Male Baby Names](images/male.jpg)
+![Top Female Baby Names](images/female.jpg)
 
 ### State-Specific Patterns:
 
