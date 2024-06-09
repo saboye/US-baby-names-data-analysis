@@ -1,13 +1,18 @@
-![GitHub contributors](https://img.shields.io/github/contributors/saboye/US-baby-names-data-analysis?color=blue&logo=github&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/saboye/US-baby-names-data-analysis?logo=github&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues-raw/saboye/US-baby-names-data-analysis?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/saboye/US-baby-names-data-analysis?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/saboye/US-baby-names-data-analysis?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python)
-![DSC 630](https://img.shields.io/badge/DSC%20630-Predictive%20Analytics-blue?style=for-the-badge)
-![Bellevue University](https://img.shields.io/badge/Bellevue%20University-blue?style=for-the-badge&logo=university)
+<div align="center">
+  <h1>US Baby Name Trends</h1>
+</div>
 
 
+<p align="center">
+    <img src="https://img.shields.io/github/contributors/saboye/US-baby-names-data-analysis?color=blue&logo=github&style=for-the-badge" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/forks/saboye/US-baby-names-data-analysis?logo=github&style=for-the-badge" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/issues-raw/saboye/US-baby-names-data-analysis?style=for-the-badge" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/license/saboye/US-baby-names-data-analysis?style=for-the-badge" alt="GitHub license" />
+    <img src="https://img.shields.io/github/last-commit/saboye/US-baby-names-data-analysis?style=for-the-badge" alt="GitHub last commit" />
+    <img src="https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python" />
+    <img src="https://img.shields.io/badge/DSC%20630-Predictive%20Analytics-blue?style=for-the-badge" alt="DSC 630" />
+    <img src="https://img.shields.io/badge/Bellevue%20University-blue?style=for-the-badge&logo=university" alt="Bellevue University" />
+</p>
 
 # Summary and Conclusion
 
